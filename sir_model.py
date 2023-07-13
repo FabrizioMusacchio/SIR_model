@@ -10,6 +10,14 @@ conda create -n sir_model_covid19 -y python=3.9
 conda activate sir_model_covid19
 conda install -y mamba
 mamba install -y pandas matplotlib numpy scipy scikit-learn ipykernel notebook ipympl mplcursors
+
+Acknowledgement:
+I acknowledge that the main code is based on this 
+
+* blog post: https://numbersandshapes.net/posts/fitting_sir_to_data_in_python/,  and 
+* this documentation page: https://scientific-python.readthedocs.io/en/latest/notebooks_rst/3_Ordinary_Differential_Equations/02_Examples/Epidemic_model_SIR.html. 
+
+I have made some modifications to the code to make it more readable and understandable.
 """
 # %% IMPORTS
 import matplotlib.pyplot as plt

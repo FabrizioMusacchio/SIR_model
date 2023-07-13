@@ -1,6 +1,6 @@
 # The SIR Model
 
-This repository contains the code for the blog post on [The SIR model: A mathematical approach to epidemic dynamics](https://www.fabriziomusacchio.com/blog/2020-12-11-sir_model/). For further details, please refer to this  post.
+This repository contains the code for the blog posts on [The SIR model: A mathematical approach to epidemic dynamics](https://www.fabriziomusacchio.com/blog/2020-12-11-sir_model/) and [Interactive COVID-19 data exploration with Jupyter notebooks](https://www.fabriziomusacchio.com/blog/2020-12-15-covid19_interactive_plot/). For further details, please refer to these posts.
 
 For reproducibility:
 

@@ -1,0 +1,9 @@
+pandas
+matplotlib
+numpy
+scipy
+scikit-learn
+ipykernel
+notebook
+ipympl
+mplcursors
